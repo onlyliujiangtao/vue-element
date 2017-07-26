@@ -29,6 +29,7 @@
     "showdown": "1.7.1",
     "simplemde": "1.11.2",
     "sortablejs": "1.5.1",
+    "tinymce": "^4.6.4",
     "vue": "2.3.3",
     "vue-count-to": "1.0.5",
     "vue-multiselect": "2.0.0-beta.15",
